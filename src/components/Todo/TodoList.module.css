@@ -1,0 +1,7 @@
+.close{
+    font-size: 16px;
+    cursor: pointer;
+}
+input[type="text"]{
+    padding: 20px;
+}
